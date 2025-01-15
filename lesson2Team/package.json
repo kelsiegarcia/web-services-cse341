@@ -1,0 +1,11 @@
+{
+  "name": "lesson2team",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "kelsie garcia",
+  "license": "ISC",
+  "description": ""
+}
